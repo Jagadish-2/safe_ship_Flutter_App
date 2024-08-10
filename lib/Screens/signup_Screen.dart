@@ -35,6 +35,7 @@ class SignupScreen extends ConsumerWidget {
                     children: [
                       Align(
                         alignment: Alignment.topRight,
+
                         child: Transform.scale(
                           scale: 1.7,
                           child: AnimatedContainer(
