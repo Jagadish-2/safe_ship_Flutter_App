@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624389794325",
+    "project_id": "safe-ship-34660",
+    "storage_bucket": "safe-ship-34660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624389794325:android:ef7faab2d7bc2b647f7c1c",
+        "android_client_info": {
+          "package_name": "com.example.safe_ship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbEz1cgLO5rJw_15fPLsmT4oPaKbFPKnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
